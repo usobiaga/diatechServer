@@ -24,9 +24,6 @@ Maintainer: \packageMaintainer{diatechServer}
 ~~ Literature or other references for background information ~~
 }
 \keyword{ package }
-\seealso{
- ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-}
 \examples{
 ## no examples
 }
